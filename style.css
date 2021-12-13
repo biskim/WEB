@@ -1,4 +1,4 @@
-<style>
+
 a{
 color:inherit;
 text-decoration: none;
@@ -12,7 +12,7 @@ margin:0;
   h1
         {
           font-size:75px;
-          text-align:center;        
+          text-align:center;
           border-bottom:1px solid gray;
           margin:0;
           padding:15px;
@@ -20,7 +20,7 @@ margin:0;
 
 }
 
-}
+
   #grid ol     {
     border-right:1px solid gray;
     width:150px;
@@ -38,5 +38,3 @@ margin:0;
   padding-top: 25px;
 
 }
-
-  </style>
